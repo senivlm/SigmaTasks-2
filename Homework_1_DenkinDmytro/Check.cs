@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Homework_1_DenkinDmytro
 {
+    // static -- class does not have any data, prints information
     public static class Check
     {
         public static void ProductInfo(Product product)

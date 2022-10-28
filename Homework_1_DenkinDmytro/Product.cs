@@ -11,7 +11,7 @@ namespace Homework_1_DenkinDmytro
 		// protected -- for future children to inherit
 		protected string _name;
 
-		// Decimal is used for financial calculations
+		// decimal is used for financial calculations
 		private decimal _price;
 		private double _weight;
 
